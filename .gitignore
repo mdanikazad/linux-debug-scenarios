@@ -1,0 +1,5 @@
+.scenario*_build/
+.scenario*_lab/
+.scenario*_run/
+.scenario*_conf/
+.scenario*_log/
